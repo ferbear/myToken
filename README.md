@@ -9,7 +9,10 @@ The contract has public variables to store information about the token, includin
 There is a mapping that associates addresses with their corresponding token balances.
 The contract includes a mint function that increases the total supply by a specified value and adds that value to the balance of the "sender" address.
 The contract includes a burn function that deducts tokens from the total supply and the balance of the "sender" address. This function should only execute if the balance of the "sender" is greater than or equal to the amount being burned.
+
+
 Getting Started
+
 To run this contract, you can use Remix, an online Solidity IDE. Follow the steps below to compile and deploy the contract:
 
 Go to the Remix website at https://remix.ethereum.org/.
@@ -26,7 +29,9 @@ mint: Allows the creation of new tokens by specifying the address and value to b
 burn: Enables the destruction of tokens by specifying the address and value to be burned.
 
 Author
+
 Metacrafter Febrare
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
