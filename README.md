@@ -1,7 +1,10 @@
 MyToken
+
 This Solidity contract implements a basic token system with minting and burning functionality. It allows the creation and destruction of tokens, while keeping track of the total supply and individual balances.
 
 Requirements
+
+
 The contract has public variables to store information about the token, including its name, abbreviation, and total supply.
 There is a mapping that associates addresses with their corresponding token balances.
 The contract includes a mint function that increases the total supply by a specified value and adds that value to the balance of the "sender" address.
