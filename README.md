@@ -1,10 +1,14 @@
 Project Solidity Token
+
 Tokens are used for a variety of purposes such as fundraising, creating loyalty programs, or even as a form of currency. The purpose of this program is to help you learn how to create a digital asset called a token on the Ethereum blockchain using a programming language called Solidity.
 
+
 Description
+
 The project will cover the basics of writing a Solidity contract, including how to define variables and functions, how to use mappings to keep track of data, and how to implement a minting and burning function for the token. We'll also discuss some best practices for writing secure and efficient smart contracts.
 
 Getting Started
+
 Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
@@ -46,8 +50,10 @@ Once the contract is deployed, you can explore it like a wallet. You can mint to
 By the end of this project, you'll have a good understanding of how to write a basic token contract in Solidity and how to deploy it to the Ethereum blockchain. You'll also be familiar with some of the tools and resources available to help you develop and test your contracts. Whether you're interested in creating tokens for your own projects or exploring the world of smart contracts, this project is a great place to start.
 
 Authors
+
 ferbear
 https://github.com/ferbear
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
