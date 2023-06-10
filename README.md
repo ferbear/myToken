@@ -51,6 +51,7 @@ Once the contract is deployed, you can explore it like a wallet. You can mint to
 
 By the end of this project, you'll have a good understanding of how to write a basic token contract in Solidity and how to deploy it to the Ethereum blockchain. You'll also be familiar with some of the tools and resources available to help you develop and test your contracts. Whether you're interested in creating tokens for your own projects or exploring the world of smart contracts, this project is a great place to start.
 
+
 ## Authors
 
 ferbear >>
